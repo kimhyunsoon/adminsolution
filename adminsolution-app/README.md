@@ -1,4 +1,4 @@
-# adminsolution
+# adminsolution-app
 
 ## Project setup
 ```
